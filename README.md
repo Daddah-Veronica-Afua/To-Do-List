@@ -99,3 +99,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 - Special thanks to all the my instructors [Miss Habiba Adams & Miss Irene] who have inspired ad helped improve this project.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 239cc7c0f2695128126946dd412e44fe2efd2e85
